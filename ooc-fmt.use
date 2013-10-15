@@ -1,0 +1,6 @@
+Name: ooc-fmt
+Description: Formats ooc code to to standard conventions
+Requires: rock
+SourcePath: source
+
+Main: ooc-fmt.ooc
